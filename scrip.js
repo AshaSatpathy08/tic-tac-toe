@@ -75,6 +75,7 @@ function handleClick(index) {
         //check koi jeet toh nahi gya
         checkGameOver();
     }
+    //hello
 }
 
 boxes.forEach((box, index) => {
